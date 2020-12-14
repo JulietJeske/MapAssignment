@@ -1,0 +1,42 @@
+
+
+.header {
+	font-family: "Helvetica", Georgia, Times New Roman;
+	text-align: center;
+	color: black;
+
+}
+
+.caption {
+	font-family: "Arial", Georgia, Helvetica;
+	text-align: center;
+	color: black;
+	display: block;
+	line-height: 0.2em;
+
+}
+
+p {
+  width: 900px;
+  font-family: "Helvetica", Arial, Georgia; 
+  display: block;
+  text-align: justify;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+body {
+	background-color: lightgray;
+}
+
+img {
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+}
+
+.center{
+  	margin-left: auto;
+  	margin-right: auto;
+}
